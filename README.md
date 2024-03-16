@@ -1,7 +1,7 @@
 👋 Hi, I’m @ahadnawaz585
 
 - 👀 I’m interested in exploring the endless possibilities of coding and tech.
-- 🌱 I’m currently learning and growing as a PEAN Stack and WordPress Developer.
+- 🌱 I’m currently learning and growing as a seasonal Full Stack Developer and also WordPress/PHP Developer.
 - 💞️ I’m looking to collaborate on innovative web projects and open source contributions.
 - 📫 How to reach me: Connect with me here or drop me an email at ahadnawaz585@gmail.com .
 - 😄 Pronouns: He/Him
