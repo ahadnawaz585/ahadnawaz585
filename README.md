@@ -49,8 +49,8 @@
   <a href="https://www.fiverr.com/ahadnawaz__?up_rollout=true" target="_blank"><img src="https://img.shields.io/badge/Fiverr-darkgreen?style=for-the-badge&logo=fiverr&logoColor=white" height="28px" width="100"/></a>
   <a href="https://twitter.com/ahadnawaz__" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" width="100"/></a>
   <a href="https://www.upwork.com/freelancers/~01b51d8732ee00bc45?viewMode=1" target="_blank"><img src="https://img.shields.io/badge/Upwork-darkgreen?style=for-the-badge&logo=upwork&logoColor=green" height="28px" width="100"/></a>
-  <a href="mailto:ahadnawaz585@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" width="100"/></a>
-  <a href="https://www.instagram.com/ahadnawaz__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" width="100"/></a>
-  <a href="https://www.facebook.com/captainahad585" target="_blank"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" width="100"/></a>
+  <a href="mailto:ahadnawaz585@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" height="28px"  width="100"/></a>
+  <a href="https://www.instagram.com/ahadnawaz__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" height="28px"  width="100"/></a>
+  <a href="https://www.facebook.com/captainahad585" target="_blank"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" height="28px"  width="100"/></a>
 </div>
 
