@@ -10,7 +10,7 @@
 #CodeCraze #PEANstack #WordPressDev 🚀
 
 <div id="header" align="center">
-  <a href="https://www.linkedin.com/in/ahad-nawaz-248214234/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" width="100"/></a>
+  <a href="https://www.linkedin.com/in/ahad-nawaz-248214234/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" width="100"/></a>
 </div>
 
 
