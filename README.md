@@ -8,3 +8,6 @@
 - ⚡ Fun fact: I believe lemon grass tea / coffee  is the perfect fuel for coding adventures!
 
 #CodeCraze #PEANstack #WordPressDev 🚀
+
+
+https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
