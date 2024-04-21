@@ -7,7 +7,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I believe lemongrass tea / coffee is the perfect fuel for coding adventures!
 
-#CodeCraze #PEANstack #WordPressDev 🚀
+#CodeCraze #TECHstacks #WordPressDev 🚀
 
 ## Technologies & Tools
 
