@@ -54,7 +54,7 @@
 
 
 ## 📊 GitHub Stats:
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahadnawaz585&theme=dark)![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahadnawaz585&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahadnawaz585&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahadnawaz585&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=ahadnawaz585&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ahadnawaz585&theme=dark&hide_border=false)<br/>
 
