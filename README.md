@@ -37,20 +37,27 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/>&nbsp;
 
-  ### Tools & Others
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" title="Prisma" alt="Prisma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="WordPress" alt="WordPress" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" title="Apache" alt="Apache" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
-  <img src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" title="Virtual Box" alt="Virtual Box" width="40" height="40"/>&nbsp;
+### Testing Environment
+- ![Postman](https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg)
+- ![Virtual Box](https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png)
+
+### OS
+- ![Linux](https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg)
+- ![Ubuntu](https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg)
+
+### Technologies
+- ![WordPress](https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg)
+- ![Apache](https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg)
+- ![Nginx](https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg)
+
+### Tools
+- ![Git](https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg)
+- ![DBeaver](https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg)
+- ![Prisma](https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg)
+- ![npm](https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg)
+- ![VS Code](https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg)
+- ![AWS](https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png) etc ......
+
 
 
   
