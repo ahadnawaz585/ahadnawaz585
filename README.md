@@ -1,5 +1,7 @@
 👋 Hi, I’m @ahadnawaz585
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahadnawaz585&label=Profile%20views&color=0e75b6&style=flat" alt="ahadnawaz585" /> </p>
+
 - 👀 I’m interested in exploring the endless possibilities of coding and tech.
 - 🌱 I’m currently learning and growing as a seasoned Full Stack Developer and also WordPress/PHP Developer.
 - 💞️ I’m looking to collaborate on innovative web projects and open-source contributions.
