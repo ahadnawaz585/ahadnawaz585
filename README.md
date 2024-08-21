@@ -3,11 +3,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahadnawaz585&label=Profile%20views&color=0e75b6&style=flat" alt="ahadnawaz585" /> </p>
 
 - 👀 I’m interested in exploring the endless possibilities of coding and tech.
-- 🌱 I’m currently learning and growing as a seasoned Full Stack Developer and also WordPress/PHP Developer.
+- 🌱 I’m currently learning and growing as a seasoned Full Stack Developer and Software Engineer.
 - 💞️ I’m looking to collaborate on innovative web projects and open-source contributions.
 - 📫 How to reach me: Connect with me here or drop me an email at ahadnawaz585@gmail.com.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I believe lemongrass tea / coffee is the perfect fuel for coding adventures!
+- ⚡ Fun fact: I believe lemongrass tea is the perfect fuel for coding adventures!
 
 #CodeCraze #TECHstacks #WordPressDev 🚀
 
